@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}</ProjectGuid>
+    <ProjectGuid>{E37F3C65-38BC-BCDB-4E18-08667B9DD714}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -45,9 +45,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Script\Activate.cs" />
+     <Compile Include="Assets\Script\Activatedoor.cs" />
      <Compile Include="Assets\Script\Fonctions inutiles\Destry2.cs" />
      <Compile Include="Assets\Script\Fonctions inutiles\couleur.cs" />
+     <Compile Include="Assets\Script\GameManager.cs" />
      <Compile Include="Assets\Script\InterfaceTable.cs" />
+     <Compile Include="Assets\Script\Key.cs" />
      <Compile Include="Assets\Script\SceneManager.cs" />
      <Compile Include="Assets\Script\changementScore.cs" />
      <Compile Include="Assets\Script\coins.cs" />
