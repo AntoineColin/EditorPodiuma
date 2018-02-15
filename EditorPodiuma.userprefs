@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Activatedoor.cs">
+    <Files>
+      <File FileName="Assets\Script\SceneManager.cs" Line="6" Column="2" />
+      <File FileName="Assets\Script\GameManager.cs" Line="7" Column="2" />
+      <File FileName="Assets\Script\Key.cs" Line="13" Column="40" />
+      <File FileName="Assets\Script\Activate.cs" Line="23" Column="27" />
+      <File FileName="Assets\Script\Activatedoor.cs" Line="12" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
